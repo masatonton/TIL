@@ -14,4 +14,4 @@ add　と　commit を一度に行う場合
 
 ローカルリポジトリをリモートリポジトリにプッシュ
 
-```git push -u origin <ブランチ名>```
+```git push origin <ブランチ名>```
